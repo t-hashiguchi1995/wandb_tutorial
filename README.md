@@ -3,6 +3,7 @@
 
 
 # ファイルの説明
+```
 wandb_tutorial/
 ├── .env_sample # 環境変数のサンプルファイル
 ├── config.py # 設定ファイル
@@ -12,7 +13,7 @@ wandb_tutorial/
 ├── prompt/ # プロンプトディレクトリ
 │ └── judge_ja_prompts.jsonl # 日本語評価用プロンプト
 └── 00_wandb_tutorial.ipynb # LoRA学習のチュートリアル
-
+```
 
 ## セットアップ
 
